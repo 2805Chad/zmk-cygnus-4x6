@@ -16,6 +16,11 @@
             bindings = <&mo 3>;
             key-positions = <48 53>;
         };
+
+        del {
+            bindings = <&kp DEL>;
+            key-positions = <10 11>;
+        };
     };
 
     behaviors {
